@@ -22,7 +22,7 @@ MyChat-AI is a full-stack web application that enables users to upload and inter
 - **Data Storage**: In-memory vector store (for embeddings)
 - **Others**: RESTful API, JavaScript, HTML/CSS
 
-# Project Highlights
+## Project Highlights
 
 - RESTful API: Built high-performance REST APIs with Express and Node.js for efficient handling of user requests and file processing.
 - Vector Store for Embeddings: Leveraged an in-memory vector store to cache embeddings, ensuring fast and reliable retrieval of document data.
