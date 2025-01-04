@@ -29,4 +29,5 @@ MyChat-AI is a full-stack web application that enables users to upload and inter
 - AI Integration: Integrated OpenAI's GPT-4 Turbo API and LangChain framework to handle document ingestion, segmentation, storage, retrieval, and advanced Q&A responses.
 - Frontend Design: Developed an intuitive and responsive UI using React and Ant Design for a seamless user experience.
 
-## Demo Video: https://drive.google.com/file/d/1WER-R1R7GRck5tSC9qw2YnSNeeyjlf17/view?usp=sharing
+## Demo Video
+https://drive.google.com/file/d/1WER-R1R7GRck5tSC9qw2YnSNeeyjlf17/view?usp=sharing
